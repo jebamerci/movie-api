@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Moviecard from "../component/Moviecard";
+
+import Moviecard from "../../components/MovieCard.jsx";
+
 
 const Watchlist = () => {
   const [watchlist, setWatchlist] = useState(() => {
