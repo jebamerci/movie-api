@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-import Moviecard from "../../components/MovieCard.jsx";
+import Moviecard from "../component/Moviecard.jsx";
 
 
 const Watchlist = () => {
