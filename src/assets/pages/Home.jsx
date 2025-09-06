@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Moviecard from "../component/Moviecard.jsx";
+import MovieCard from "../../components/MovieCard.jsx";
+
 
 
 const keywords = [
